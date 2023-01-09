@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hemanthrgh/react-Drop-down/static/css/main.e6c13ad2.css",
+    "main.js": "/Hemanthrgh/react-Drop-down/static/js/main.d971469d.js",
+    "static/js/787.6804c560.chunk.js": "/Hemanthrgh/react-Drop-down/static/js/787.6804c560.chunk.js",
+    "index.html": "/Hemanthrgh/react-Drop-down/index.html",
+    "main.e6c13ad2.css.map": "/Hemanthrgh/react-Drop-down/static/css/main.e6c13ad2.css.map",
+    "main.d971469d.js.map": "/Hemanthrgh/react-Drop-down/static/js/main.d971469d.js.map",
+    "787.6804c560.chunk.js.map": "/Hemanthrgh/react-Drop-down/static/js/787.6804c560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d971469d.js"
+  ]
+}
